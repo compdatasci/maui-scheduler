@@ -274,7 +274,7 @@ typedef struct {
 #endif /* mutime */
 
 #ifndef MAX_MPAR
-# define MAX_MPAR             4
+# define MAX_MPAR             10
 #endif /* MAX_MPAR */
 
 #define MMAX_PAR  4
@@ -311,7 +311,7 @@ typedef struct {
 #endif /* MAX_MATTR */
 
 #ifndef MAX_MRES
-# define MAX_MRES          1024
+# define MAX_MRES         24576
 #endif /* MAX_MRES */
 
 #ifndef MMAX_RSV
