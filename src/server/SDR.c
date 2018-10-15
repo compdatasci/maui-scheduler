@@ -1,4 +1,19 @@
-/* */
+/*
+Package:  maui
+Module:   SDR.c
+Version:  3.3.1
+
+Copyright:
+
+  Copyright (C) 1999-2010 Cluster Resources, Inc
+
+  All Rights Reserved
+
+Disclaimer:
+
+  
+
+*/
         
 #include "moab.h"
 #include "msched-proto.h"

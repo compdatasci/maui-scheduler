@@ -1,4 +1,18 @@
 /*
+Package:  maui
+Module:   omclient.c
+Version:  3.3.1
+
+Copyright:
+
+  Copyright (C) 1999-2010 Cluster Resources, Inc
+
+  All Rights Reserved
+
+Disclaimer:
+
+  
+
 */
 
 int __OMCLoadArgs(

@@ -1,4 +1,19 @@
-/* HEADER */
+/*
+Package:  maui
+Module:   __MLLStub.c
+Version:  3.3.1
+
+Copyright:
+
+  Copyright (C) 1999-2010 Cluster Resources, Inc
+
+  All Rights Reserved
+
+Disclaimer:
+
+  
+
+*/
 
 LL_element *ll_get_objs(LL_element *A1,int A2,void *A3,int *A4,int *A5) { return(FAILURE); }  /* ll_get_objs() */ 
 LL_element *ll_next_obj(LL_element *A1) { return(FAILURE); }
